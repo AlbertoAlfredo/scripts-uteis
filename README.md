@@ -26,7 +26,7 @@ O projeto é organizado no formato modular, onde cada script possui sua própria
 
 | Diretório / Script | Plataforma | Descrição |
 | --- | --- | --- |
-| [`winget-auto-updater`](https://github.com/AlbertoAlfredo/scripts-uteis/winget-auto-updater/) | Windows | Atualização silenciosa e automatizada de todos os pacotes via Winget com auto-elevação para Administrador. |
+| [`winget-auto-updater`](https://github.com/AlbertoAlfredo/scripts-uteis/tree/main/winget-auto-updater) | Windows | Atualização silenciosa e automatizada de todos os pacotes via Winget com auto-elevação para Administrador. |
 
 *(Novas ferramentas serão listadas aqui conforme forem adicionadas).*
 
@@ -56,7 +56,7 @@ Para manter a consistência e facilidade de manutenção:
 
 ## Licença
 
-Este repositório é distribuído sob a licença [MIT](https://github.com/AlbertoAlfredo/scripts-uteis/LICENSE)
+Este repositório é distribuído sob a licença [MIT](https://github.com/AlbertoAlfredo/scripts-uteis/blob/main/LICENSE)
 ```
 
 ```
